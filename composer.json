@@ -1,5 +1,5 @@
 {
-    "name": "ejarnutowski/laravel-api-key",
+    "name": "zedomel/laravel-api-key",
     "description": "Authorize requests to your Laravel application with API keys",
     "keywords": ["api", "api key", "authentication", "authorization", "laravel"],
     "license": "MIT",
@@ -21,7 +21,7 @@
     "extra": {
         "laravel": {
             "dont-discover": [
-                "ejarnutowski/laravel-api-key"
+                "zedomel/laravel-api-key"
             ]
         }
     }
