@@ -2,8 +2,8 @@
 
 namespace Ejarnutowski\LaravelApiKey\Models;
 
-use Jenssegers\Mongodb\Eloquent\Model;
-use Jenssegers\Mongodb\Eloquent\SoftDeletes;
+use MongoDB\Laravel\Mongodb\Eloquent\Model;
+use MongoDB\Laravel\Mongodb\Eloquent\SoftDeletes;
 use Illuminate\Support\Str;
 
 class ApiKey extends Model
