@@ -2,7 +2,7 @@
 
 namespace Ejarnutowski\LaravelApiKey\Models;
 
-use Jenssegers\Mongodb\Eloquent\Model;
+use MongoDB\Laravel\Eloquent\Model;
 
 class ApiKeyAdminEvent extends Model
 {
